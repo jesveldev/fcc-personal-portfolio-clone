@@ -221,6 +221,7 @@
 
 #social-media-navbar{
 	background: #303841;
+	min-height:90vh;
 }
 
 #social-media-navbar h4{
@@ -307,7 +308,7 @@ footer{
 -----------------------------------
 */
 
-@media (max-width:767px){
+@media screen and (max-width:767px){
 	#navbar{
 		display:none;
 	}
