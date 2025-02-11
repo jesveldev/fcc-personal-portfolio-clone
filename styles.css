@@ -358,6 +358,10 @@ footer{
 
 		display:flex;
 	}
+
+	#welcome-section h1, #social-media-navbar{
+		text-align:center;
+	}
 }
 
 /*-----------------------------------
