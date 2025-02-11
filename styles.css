@@ -318,6 +318,44 @@ footer{
 
 	.project-card{
 		width:80%;
+		margin-bottom: 5%;
+	}
+
+	#social-media-links{
+		flex-flow: column nowrap;
+		justify-content:center;
+		align-items:center;
+	}
+
+	#social-media-links a{
+		font-size: 2em;
+	}
+
+	#profile-link{
+		margin-bottom:10%;
+	}
+
+	.social-media-icon{
+		width:50px;
+		height:50px;
+		margin:0;
+		padding:0;
+	}
+
+	#show-all{
+		font-size:1.6em;
+	}
+
+	.project-tile{
+		font-size:1.4em;
+	}
+
+	footer{
+		text-align:center;
+		flex-flow: column nowrap;
+		font-size:1.25em;
+
+		display:flex;
 	}
 }
 
